@@ -1,4 +1,4 @@
-# basic-calculator
+# learning repository
 this is my first repository
 <br>
-author- prnce kumar
+author- prince kumar
